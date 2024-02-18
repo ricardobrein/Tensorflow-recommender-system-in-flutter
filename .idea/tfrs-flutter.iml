@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/finished/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/finished/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/finished/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step0/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step0/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step0/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step1/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step1/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step1/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step2/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step2/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step2/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step3/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step3/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step3/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step4/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step4/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step4/frontend/build" />
+      <excludeFolder url="file://$MODULE_DIR$/step5/frontend/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/step5/frontend/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/step5/frontend/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
